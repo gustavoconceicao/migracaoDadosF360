@@ -1,0 +1,35 @@
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\Teste do robo.exe.config
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\Teste do robo.exe
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\Teste do robo.pdb
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\obj\Debug\Teste do robo.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\obj\Debug\Teste do robo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\obj\Debug\Teste do robo.csproj.CopyComplete
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\obj\Debug\Teste do robo.exe
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\obj\Debug\Teste do robo.pdb
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\BitMiracle.Docotic.Pdf.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\BitMiracle.Docotic.Pdf.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\snappy32.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\snappy64.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\libzstd.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\mongocrypt.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\DnsClient.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Bson.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Driver.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.LibMongocrypt.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\SharpCompress.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Buffers.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Net.Http.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\DnsClient.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Bson.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Driver.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Buffers.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gusta\source\repos\Teste do robo\Teste do robo\bin\Debug\System.IO.Compression.ZipFile.dll
